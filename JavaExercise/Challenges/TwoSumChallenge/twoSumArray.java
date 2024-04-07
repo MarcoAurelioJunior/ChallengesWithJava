@@ -1,4 +1,4 @@
-package JavaExercise.Challenges;
+package JavaExercise.Challenges.TwoSumChallenge;
 
 import java.util.ArrayList;
 import java.util.Arrays;

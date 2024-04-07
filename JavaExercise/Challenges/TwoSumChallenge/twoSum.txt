@@ -1,0 +1,9 @@
+
+Project Two Sum: 
+
+- In a list with four or more values, take the sum of two numbers to look the result in a target variable
+
+Comments: 
+
+In this challenge, I will utilize a Randomizer numbers to finish the project, where the loop stay testing 
+all the results of the all sums and shows the result with same sum as the target variable
