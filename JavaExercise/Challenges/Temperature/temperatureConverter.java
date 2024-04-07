@@ -44,5 +44,6 @@ public class temperatureConverter {
                 System.out.println("-------------------------------------------------");
             }
         }
+        scanner.close();
     }
 }
