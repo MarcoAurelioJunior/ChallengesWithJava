@@ -1,0 +1,7 @@
+Project Temperature Converter
+
+-Convert the value in Celsius to Kelvin, Réamur, Rankine, Fahrenheint
+
+Comments: 
+
+In this project I used a display in the terminal, where if the user type 1 the system verify and converter acordding with the programation

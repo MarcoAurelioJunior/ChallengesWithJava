@@ -1,0 +1,7 @@
+Project Fizz Buzz
+
+Find out the secret number between 1 and 100 (random), the user can have 10 attempts for find the number
+
+Comments:
+
+In this project, I used the Method Random, to create a randomizer number between 1 to 100, but also the user have 10 attempts, where I can modify this very easier

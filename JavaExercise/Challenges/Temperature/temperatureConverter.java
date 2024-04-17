@@ -1,4 +1,4 @@
-package JavaExercise.Challenges.Temperature;
+    package JavaExercise.Challenges.Temperature;
 
 import java.util.Scanner;
 
