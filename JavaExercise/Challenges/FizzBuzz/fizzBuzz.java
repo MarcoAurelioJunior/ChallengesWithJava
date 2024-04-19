@@ -14,10 +14,10 @@ public class fizzBuzz {
             System.out.println("Type your option: ");
             int yourOpt = scanner.nextInt();
 
-            if (yourOpt > randomValue) {
-                System.out.println("Your option is GREATER than the secret number!");
-            }else if(yourOpt < randomValue){
-                System.out.println("Your option is SMALLER than the secret number!");
+            if (randomValue > yourOpt) {
+                System.out.println("The secret number is Greater than you option");
+            }else if(randomValue < yourOpt){
+                System.out.println("The secret number is SMALLER than you option");
             }else{
                 System.out.println("You have found the SECRET NUMBER!!!");
                 System.out.println("Attempts used: " + i);
