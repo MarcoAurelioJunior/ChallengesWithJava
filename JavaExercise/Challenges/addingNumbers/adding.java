@@ -29,6 +29,7 @@ public class adding {
         System.out.println("\nAdding all pairs numbers, we have: " + pair + "\n");
         System.out.println("Adding all odd numbers, we have: " + odd);
 
+        scanner.close();
         
     }
 }

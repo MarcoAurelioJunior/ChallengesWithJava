@@ -1,0 +1,6 @@
+Project Adding Odd and Pair numbers
+
+- Get the array numbers and adding according with your type (Odd or Pair)
+
+Comments: 
+- In this project I create a variable that checks if the number entered has a remainder in its division, where remainder 0 is an even number and remainder != 0 is an odd number
